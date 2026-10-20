@@ -1,0 +1,26 @@
+{
+  "name": "living-code-firefox",
+  "version": "0.1.0",
+  "description": "Living Code for Firefox. Repository-owned theme files, installation instructions and Night and Paper.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Living Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/living-code-theme/firefox.git"
+  },
+  "homepage": "https://github.com/living-code-theme/firefox",
+  "private": true,
+  "packageManager": "pnpm@12.9.0",
+  "engines": {
+    "node": ">=22.22"
+  },
+  "livingCode": {
+    "kind": "firefox"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs",
+    "package": "node scripts/package.mjs"
+  }
+}

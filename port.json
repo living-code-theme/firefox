@@ -1,0 +1,47 @@
+{
+  "$schema": "https://living-code.dev/port.schema.json",
+  "schemaVersion": 1,
+  "name": "Firefox",
+  "slug": "firefox",
+  "group": "Browsers",
+  "emoji": "🦊",
+  "description": "Living Code for Firefox. Repository-owned theme files, installation instructions and Night and Paper.",
+  "homepage": "https://www.firefox.com",
+  "quick": "See installation instructions",
+  "aliases": [
+    "firefox"
+  ],
+  "flavors": [
+    "night",
+    "paper"
+  ],
+  "files": [
+    "OFL-JetBrainsMono.txt",
+    "living-code-night/icons/icon-128.png",
+    "living-code-night/icons/icon-256.png",
+    "living-code-night/icons/icon-48.png",
+    "living-code-night/icons/icon-512.png",
+    "living-code-night/icons/icon-96.png",
+    "living-code-night/icons/icon.svg",
+    "living-code-night/manifest.json",
+    "living-code-paper/icons/icon-128.png",
+    "living-code-paper/icons/icon-256.png",
+    "living-code-paper/icons/icon-48.png",
+    "living-code-paper/icons/icon-512.png",
+    "living-code-paper/icons/icon-96.png",
+    "living-code-paper/icons/icon.svg",
+    "living-code-paper/manifest.json"
+  ],
+  "images": [
+    {
+      "flavor": "night",
+      "path": "images/night.png",
+      "alt": "Firefox running Living Code Night"
+    },
+    {
+      "flavor": "paper",
+      "path": "images/paper.png",
+      "alt": "Firefox running Living Code Paper"
+    }
+  ]
+}
