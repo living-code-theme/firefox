@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "artifacts": ["living-code-firefox-night.xpi", "living-code-firefox-paper.xpi"],
+  "channels": [
+    { "name": "Firefox Add-ons", "url": "https://addons.mozilla.org/developers/", "instructions": "These XPI files are unsigned and need AMO signing/review. They use new IDs living-code-{night,paper}@living-code-theme and author Living Code. Existing public themes use @elliotluque: these new IDs cannot update those installations. Decide on clean new listings versus retaining old GUIDs before submission. Submit each flavor separately and update source/support links to the organization." }
+  ]
+}
