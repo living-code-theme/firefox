@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Living Code Night",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Living Code theme for Firefox. Calm slate. Living color. The default. Dark slate ground, teal structure, green strings and gray comments. Amber warnings and copper numbers keep their warm contrast.",
   "author": "Living Code",
   "homepage_url": "https://github.com/living-code-theme/firefox",

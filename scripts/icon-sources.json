@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "icons": [
+    {
+      "source": "living-code-night/icons/icon.svg",
+      "sha256": "be28a0f86b524194e11198884b1fe601da7aecfb6535b6fad91930515434326e",
+      "outputs": [
+        {
+          "path": "living-code-night/icons/icon-48.png",
+          "size": 48,
+          "sha256": "aeed2aedbbdb5de99e04253d738edda0546795dc64654c5de2cb11b1b3c3b429"
+        },
+        {
+          "path": "living-code-night/icons/icon-96.png",
+          "size": 96,
+          "sha256": "ce03bcac00fcbde30c62d34bbafee2b97b6dbf5a1c027b14776401e23c63fb7f"
+        },
+        {
+          "path": "living-code-night/icons/icon-128.png",
+          "size": 128,
+          "sha256": "a498d716d9b78194863fbebd19b6a56e6c66823df26565ade8be232a3f6ea275"
+        },
+        {
+          "path": "living-code-night/icons/icon-256.png",
+          "size": 256,
+          "sha256": "7fa3cd83f076755005ff54569c70c271e23d136de9136f55eaab8baaa323762f"
+        },
+        {
+          "path": "living-code-night/icons/icon-512.png",
+          "size": 512,
+          "sha256": "4dee2c7036fb6b4a43b008df072d0fa8b35392e4ed967700963a0fc586343017"
+        }
+      ]
+    },
+    {
+      "source": "living-code-paper/icons/icon.svg",
+      "sha256": "34da6756bb1fab2f687df979a65fb4fb125f413df2e555cd8825156c4536c4bc",
+      "outputs": [
+        {
+          "path": "living-code-paper/icons/icon-48.png",
+          "size": 48,
+          "sha256": "4e60d1d476735f831be41cf800edc5d3e5749bbb1a623bc26f174f003a732552"
+        },
+        {
+          "path": "living-code-paper/icons/icon-96.png",
+          "size": 96,
+          "sha256": "4c733c5640676a249013c50bb0ea778f7b7952a5e9c9e95eb7ae5581085860c2"
+        },
+        {
+          "path": "living-code-paper/icons/icon-128.png",
+          "size": 128,
+          "sha256": "726172d092a86d604662d034b79d6a5f9ff6cc44931c92951643f14bdfdb6f43"
+        },
+        {
+          "path": "living-code-paper/icons/icon-256.png",
+          "size": 256,
+          "sha256": "1d885258aa57bc8fc2aa19b399d5f0d839c0f7b856448b866078efd9ca7e3709"
+        },
+        {
+          "path": "living-code-paper/icons/icon-512.png",
+          "size": 512,
+          "sha256": "f633e87adc45bce10a58fd7991a7c7c6d4f95d0e8604d4d8bb2a508c3f01bfbb"
+        }
+      ]
+    }
+  ]
+}

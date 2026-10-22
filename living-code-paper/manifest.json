@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Living Code Paper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Living Code theme for Firefox. Calm slate. Living color. Daylight. Same two temperatures on near-white slate, lightness inverted so every syntax color keeps WCAG AA contrast.",
   "author": "Living Code",
   "homepage_url": "https://github.com/living-code-theme/firefox",
