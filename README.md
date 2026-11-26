@@ -39,7 +39,7 @@ Select any preview to view the image at full size.
 
 Choose **Night** for a dark browser or **Paper** for a light one.
 
-The organization-owned themes are not listed yet. Once published, find **Living Code Night** or **Living Code Paper** from **Living Code** on [Firefox Add-ons](https://addons.mozilla.org/firefox/themes/) and click **Install Theme**.
+Install [Living Code Night](https://addons.mozilla.org/firefox/addon/living-code-night/) or [Living Code Paper](https://addons.mozilla.org/firefox/addon/living-code-paper/) from **Living Code** on [Firefox Add-ons](https://addons.mozilla.org/firefox/themes/) and click **Install Theme**.
 
 To switch themes, open **Add-ons and themes → Themes** (`about:addons`) and enable your preferred variant.
 
@@ -54,7 +54,7 @@ Expand a flavor for its full-size preview and activation instructions.
 
 <p><a href="images/night.png"><img src="images/night.png" alt="Firefox running Living Code Night" width="1280"></a></p>
 
-Once listed on [Firefox Add-ons](https://addons.mozilla.org/firefox/themes/), install **Living Code Night** from **Living Code**, then enable it in *Add-ons and themes → Themes*.
+Install [Living Code Night](https://addons.mozilla.org/firefox/addon/living-code-night/) on Firefox Add-ons, then enable it in *Add-ons and themes → Themes*.
 
 </details>
 
@@ -63,7 +63,7 @@ Once listed on [Firefox Add-ons](https://addons.mozilla.org/firefox/themes/), in
 
 <p><a href="images/paper.png"><img src="images/paper.png" alt="Firefox running Living Code Paper" width="1280"></a></p>
 
-Once listed on [Firefox Add-ons](https://addons.mozilla.org/firefox/themes/), install **Living Code Paper** from **Living Code**, then enable it in *Add-ons and themes → Themes*.
+Install [Living Code Paper](https://addons.mozilla.org/firefox/addon/living-code-paper/) on Firefox Add-ons, then enable it in *Add-ons and themes → Themes*.
 
 </details>
 
